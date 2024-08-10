@@ -1,0 +1,752 @@
+[
+    {
+        "name": "Table Saw",
+        "price": 419.03,
+        "description": "Perfect for residential and commercial projects."
+    },
+    {
+        "name": "Joint Compound",
+        "price": 201.54,
+        "description": "High-quality and durable."
+    },
+    {
+        "name": "Planer",
+        "price": 200.99,
+        "description": "High-quality and durable."
+    },
+    {
+        "name": "Concrete Mixer",
+        "price": 334.17,
+        "description": "Offers superior strength and stability."
+    },
+    {
+        "name": "Wire Mesh",
+        "price": 233.26,
+        "description": "Eco-friendly and sustainable."
+    },
+    {
+        "name": "Compressor",
+        "price": 264.19,
+        "description": "Perfect for residential and commercial projects."
+    },
+    {
+        "name": "Vinyl Siding",
+        "price": 303.67,
+        "description": "Available in various sizes and colors."
+    },
+    {
+        "name": "Stucco",
+        "price": 106.31,
+        "description": "Cost-effective solution for builders."
+    },
+    {
+        "name": "Steel Beam",
+        "price": 156.87,
+        "description": "Lightweight and flexible material."
+    },
+    {
+        "name": "Gravel",
+        "price": 452.98,
+        "description": "Lightweight and flexible material."
+    },
+    {
+        "name": "Trowel",
+        "price": 127.92,
+        "description": "Innovative design for enhanced efficiency."
+    },
+    {
+        "name": "Concrete Block",
+        "price": 124.77,
+        "description": "Ensures excellent thermal insulation."
+    },
+    {
+        "name": "Water Heater",
+        "price": 350.81,
+        "description": "Designed for easy application and maintenance."
+    },
+    {
+        "name": "Tool Chest",
+        "price": 334.41,
+        "description": "Available in various sizes and colors."
+    },
+    {
+        "name": "Floor Tile",
+        "price": 83.56,
+        "description": "Available in various sizes and colors."
+    },
+    {
+        "name": "Tool Belt",
+        "price": 294.37,
+        "description": "Innovative design for enhanced efficiency."
+    },
+    {
+        "name": "Laminate Flooring",
+        "price": 477.65,
+        "description": "Innovative design for enhanced efficiency."
+    },
+    {
+        "name": "Workbench",
+        "price": 304.4,
+        "description": "Cost-effective solution for builders."
+    },
+    {
+        "name": "Circular Saw",
+        "price": 392.71,
+        "description": "Provides a smooth and glossy finish."
+    },
+    {
+        "name": "Planer",
+        "price": 354.82,
+        "description": "Perfect for residential and commercial projects."
+    },
+    {
+        "name": "Roof Tile",
+        "price": 232.42,
+        "description": "Designed for easy application and maintenance."
+    },
+    {
+        "name": "Extension Cord",
+        "price": 108.69,
+        "description": "Offers superior strength and stability."
+    },
+    {
+        "name": "Tape Measure",
+        "price": 381.48,
+        "description": "Cost-effective solution for builders."
+    },
+    {
+        "name": "Level",
+        "price": 330.11,
+        "description": "Cost-effective solution for builders."
+    },
+    {
+        "name": "Joiner",
+        "price": 278.23,
+        "description": "Perfect for residential and commercial projects."
+    },
+    {
+        "name": "PVC Pipe",
+        "price": 188.59,
+        "description": "Available in various sizes and colors."
+    },
+    {
+        "name": "Planer",
+        "price": 80.11,
+        "description": "Weather-resistant and easy to install."
+    },
+    {
+        "name": "Table Saw",
+        "price": 207.04,
+        "description": "Available in various sizes and colors."
+    },
+    {
+        "name": "Plaster",
+        "price": 400.02,
+        "description": "Cost-effective solution for builders."
+    },
+    {
+        "name": "Plumb Bob",
+        "price": 494.26,
+        "description": "High-quality and durable."
+    },
+    {
+        "name": "Wood Plank",
+        "price": 426.98,
+        "description": "Perfect for residential and commercial projects."
+    },
+    {
+        "name": "Insulation Foam",
+        "price": 49.18,
+        "description": "Complies with industry standards."
+    },
+    {
+        "name": "Joiner",
+        "price": 349.84,
+        "description": "Designed for easy application and maintenance."
+    },
+    {
+        "name": "Cement",
+        "price": 382.55,
+        "description": "Eco-friendly and sustainable."
+    },
+    {
+        "name": "Welding Machine",
+        "price": 461.06,
+        "description": "Cost-effective solution for builders."
+    },
+    {
+        "name": "Wheelbarrow",
+        "price": 475.44,
+        "description": "Complies with industry standards."
+    },
+    {
+        "name": "Brick",
+        "price": 390.8,
+        "description": "Ensures excellent thermal insulation."
+    },
+    {
+        "name": "Knee Pads",
+        "price": 23.5,
+        "description": "Designed for easy application and maintenance."
+    },
+    {
+        "name": "Sand",
+        "price": 216.66,
+        "description": "Offers superior strength and stability."
+    },
+    {
+        "name": "Scaffold",
+        "price": 237.81,
+        "description": "Compact design for tight spaces."
+    },
+    {
+        "name": "Crowbar",
+        "price": 71.83,
+        "description": "Weather-resistant and easy to install."
+    },
+    {
+        "name": "Dust Collector",
+        "price": 42.79,
+        "description": "Complies with industry standards."
+    },
+    {
+        "name": "Thermostat",
+        "price": 211.57,
+        "description": "Complies with industry standards."
+    },
+    {
+        "name": "Rebar",
+        "price": 146.59,
+        "description": "Cost-effective solution for builders."
+    },
+    {
+        "name": "Mortar",
+        "price": 434.34,
+        "description": "Designed for easy application and maintenance."
+    },
+    {
+        "name": "Gravel",
+        "price": 272.11,
+        "description": "Offers superior strength and stability."
+    },
+    {
+        "name": "Bucket",
+        "price": 73.71,
+        "description": "Innovative design for enhanced efficiency."
+    },
+    {
+        "name": "Dust Collector",
+        "price": 416.74,
+        "description": "Innovative design for enhanced efficiency."
+    },
+    {
+        "name": "Router",
+        "price": 450.99,
+        "description": "Complies with industry standards."
+    },
+    {
+        "name": "Miter Saw",
+        "price": 397.43,
+        "description": "Cost-effective solution for builders."
+    },
+    {
+        "name": "Wrench",
+        "price": 214.96,
+        "description": "High-performance product."
+    },
+    {
+        "name": "Screw",
+        "price": 174.35,
+        "description": "Ensures excellent thermal insulation."
+    },
+    {
+        "name": "Grout",
+        "price": 63.48,
+        "description": "Weather-resistant and easy to install."
+    },
+    {
+        "name": "Miter Saw",
+        "price": 124.53,
+        "description": "High-quality and durable."
+    },
+    {
+        "name": "Plywood",
+        "price": 456.51,
+        "description": "High-performance product."
+    },
+    {
+        "name": "Table Saw",
+        "price": 439.71,
+        "description": "Lightweight and flexible material."
+    },
+    {
+        "name": "Bucket",
+        "price": 412.03,
+        "description": "Provides a smooth and glossy finish."
+    },
+    {
+        "name": "Roof Tile",
+        "price": 403.72,
+        "description": "Weather-resistant and easy to install."
+    },
+    {
+        "name": "Ear Protection",
+        "price": 57.41,
+        "description": "Available in various sizes and colors."
+    },
+    {
+        "name": "Nail Gun",
+        "price": 336.8,
+        "description": "Perfect for residential and commercial projects."
+    },
+    {
+        "name": "Rebar",
+        "price": 262.32,
+        "description": "High-performance product."
+    },
+    {
+        "name": "Safety Glasses",
+        "price": 343.83,
+        "description": "Offers superior strength and stability."
+    },
+    {
+        "name": "Insulation Foam",
+        "price": 202.63,
+        "description": "Provides a smooth and glossy finish."
+    },
+    {
+        "name": "Gravel",
+        "price": 234.62,
+        "description": "High-quality and durable."
+    },
+    {
+        "name": "Generator",
+        "price": 163.33,
+        "description": "Lightweight and flexible material."
+    },
+    {
+        "name": "Screw",
+        "price": 188.36,
+        "description": "Eco-friendly and sustainable."
+    },
+    {
+        "name": "Backsplash",
+        "price": 357.31,
+        "description": "Weather-resistant and easy to install."
+    },
+    {
+        "name": "Crowbar",
+        "price": 187.99,
+        "description": "Available in various sizes and colors."
+    },
+    {
+        "name": "Concrete Block",
+        "price": 270.15,
+        "description": "Perfect for residential and commercial projects."
+    },
+    {
+        "name": "Asphalt Shingle",
+        "price": 382.08,
+        "description": "Perfect for residential and commercial projects."
+    },
+    {
+        "name": "Paint Sprayer",
+        "price": 135.29,
+        "description": "High-quality and durable."
+    },
+    {
+        "name": "Circular Saw",
+        "price": 13.74,
+        "description": "Eco-friendly and sustainable."
+    },
+    {
+        "name": "Drill",
+        "price": 129.3,
+        "description": "Designed for easy application and maintenance."
+    },
+    {
+        "name": "Wood Plank",
+        "price": 464.47,
+        "description": "Available in various sizes and colors."
+    },
+    {
+        "name": "Baseboard",
+        "price": 343.57,
+        "description": "Available in various sizes and colors."
+    },
+    {
+        "name": "Welding Machine",
+        "price": 494.26,
+        "description": "Offers superior strength and stability."
+    },
+    {
+        "name": "Sledgehammer",
+        "price": 264.65,
+        "description": "Designed for easy application and maintenance."
+    },
+    {
+        "name": "Drill",
+        "price": 424.85,
+        "description": "Eco-friendly and sustainable."
+    },
+    {
+        "name": "Jackhammer",
+        "price": 482.73,
+        "description": "Cost-effective solution for builders."
+    },
+    {
+        "name": "Wood Plank",
+        "price": 120.44,
+        "description": "Perfect for residential and commercial projects."
+    },
+    {
+        "name": "Jigsaw",
+        "price": 410.57,
+        "description": "Compact design for tight spaces."
+    },
+    {
+        "name": "Plumb Bob",
+        "price": 110.78,
+        "description": "Weather-resistant and easy to install."
+    },
+    {
+        "name": "Biscuit Joiner",
+        "price": 208.12,
+        "description": "Lightweight and flexible material."
+    },
+    {
+        "name": "Tape Measure",
+        "price": 312.61,
+        "description": "Provides a smooth and glossy finish."
+    },
+    {
+        "name": "Nail",
+        "price": 222.44,
+        "description": "Complies with industry standards."
+    },
+    {
+        "name": "Joiner",
+        "price": 115.74,
+        "description": "Innovative design for enhanced efficiency."
+    },
+    {
+        "name": "Shower",
+        "price": 396.8,
+        "description": "High-quality and durable."
+    },
+    {
+        "name": "Plaster",
+        "price": 430.47,
+        "description": "Complies with industry standards."
+    },
+    {
+        "name": "Dust Collector",
+        "price": 91.15,
+        "description": "High-quality and durable."
+    },
+    {
+        "name": "Scaffold",
+        "price": 19.45,
+        "description": "Eco-friendly and sustainable."
+    },
+    {
+        "name": "PVC Pipe",
+        "price": 121.05,
+        "description": "Cost-effective solution for builders."
+    },
+    {
+        "name": "Joint Compound",
+        "price": 96.08,
+        "description": "High-quality and durable."
+    },
+    {
+        "name": "Wood Plank",
+        "price": 341.31,
+        "description": "Provides a smooth and glossy finish."
+    },
+    {
+        "name": "Plaster",
+        "price": 241.42,
+        "description": "High-performance product."
+    },
+    {
+        "name": "Switch",
+        "price": 129.84,
+        "description": "Eco-friendly and sustainable."
+    },
+    {
+        "name": "Jackhammer",
+        "price": 422.47,
+        "description": "Designed for easy application and maintenance."
+    },
+    {
+        "name": "Workbench",
+        "price": 336.64,
+        "description": "High-quality and durable."
+    },
+    {
+        "name": "Vinyl Siding",
+        "price": 94.11,
+        "description": "Lightweight and flexible material."
+    },
+    {
+        "name": "Crowbar",
+        "price": 451.91,
+        "description": "Provides a smooth and glossy finish."
+    },
+    {
+        "name": "Cement",
+        "price": 21.64,
+        "description": "Compact design for tight spaces."
+    },
+    {
+        "name": "Extension Cord",
+        "price": 145.37,
+        "description": "Perfect for residential and commercial projects."
+    },
+    {
+        "name": "Baseboard",
+        "price": 273.98,
+        "description": "Compact design for tight spaces."
+    },
+    {
+        "name": "Dust Collector",
+        "price": 320.02,
+        "description": "Provides a smooth and glossy finish."
+    },
+    {
+        "name": "Nail",
+        "price": 371.99,
+        "description": "Perfect for residential and commercial projects."
+    },
+    {
+        "name": "Generator",
+        "price": 282.94,
+        "description": "High-performance product."
+    },
+    {
+        "name": "Tile Cutter",
+        "price": 214.9,
+        "description": "Designed for easy application and maintenance."
+    },
+    {
+        "name": "Ladder",
+        "price": 407.5,
+        "description": "Offers superior strength and stability."
+    },
+    {
+        "name": "Sander",
+        "price": 154.97,
+        "description": "Complies with industry standards."
+    },
+    {
+        "name": "Level",
+        "price": 284.6,
+        "description": "High-quality and durable."
+    },
+    {
+        "name": "Screw",
+        "price": 215.39,
+        "description": "Offers superior strength and stability."
+    },
+    {
+        "name": "Sledgehammer",
+        "price": 5.08,
+        "description": "Complies with industry standards."
+    },
+    {
+        "name": "Knee Pads",
+        "price": 159.48,
+        "description": "Lightweight and flexible material."
+    },
+    {
+        "name": "Sealant",
+        "price": 84.41,
+        "description": "Eco-friendly and sustainable."
+    },
+    {
+        "name": "Angle Grinder",
+        "price": 120.45,
+        "description": "High-quality and durable."
+    },
+    {
+        "name": "Gravel",
+        "price": 28.58,
+        "description": "Lightweight and flexible material."
+    },
+    {
+        "name": "Nail",
+        "price": 472.64,
+        "description": "Lightweight and flexible material."
+    },
+    {
+        "name": "Compressor",
+        "price": 268.71,
+        "description": "Eco-friendly and sustainable."
+    },
+    {
+        "name": "Ear Protection",
+        "price": 352.38,
+        "description": "Offers superior strength and stability."
+    },
+    {
+        "name": "Switch",
+        "price": 490.16,
+        "description": "Weather-resistant and easy to install."
+    },
+    {
+        "name": "Roof Tile",
+        "price": 192.32,
+        "description": "Provides a smooth and glossy finish."
+    },
+    {
+        "name": "Trowel",
+        "price": 266.48,
+        "description": "Provides a smooth and glossy finish."
+    },
+    {
+        "name": "Faucet",
+        "price": 379.12,
+        "description": "Compact design for tight spaces."
+    },
+    {
+        "name": "Faucet",
+        "price": 391.29,
+        "description": "Ensures excellent thermal insulation."
+    },
+    {
+        "name": "Miter Saw",
+        "price": 304.66,
+        "description": "Designed for easy application and maintenance."
+    },
+    {
+        "name": "Rebar",
+        "price": 65.66,
+        "description": "High-performance product."
+    },
+    {
+        "name": "Grout",
+        "price": 346.45,
+        "description": "Complies with industry standards."
+    },
+    {
+        "name": "Hard Hat",
+        "price": 179.26,
+        "description": "Eco-friendly and sustainable."
+    },
+    {
+        "name": "Stucco",
+        "price": 207.29,
+        "description": "Compact design for tight spaces."
+    },
+    {
+        "name": "Rebar",
+        "price": 481.13,
+        "description": "Provides a smooth and glossy finish."
+    },
+    {
+        "name": "Floor Tile",
+        "price": 131.03,
+        "description": "High-performance product."
+    },
+    {
+        "name": "Rebar",
+        "price": 174.85,
+        "description": "Eco-friendly and sustainable."
+    },
+    {
+        "name": "Wrench",
+        "price": 319.53,
+        "description": "Cost-effective solution for builders."
+    },
+    {
+        "name": "Crowbar",
+        "price": 491.59,
+        "description": "Designed for easy application and maintenance."
+    },
+    {
+        "name": "Biscuit Joiner",
+        "price": 302.23,
+        "description": "Lightweight and flexible material."
+    },
+    {
+        "name": "Thermostat",
+        "price": 134.77,
+        "description": "Innovative design for enhanced efficiency."
+    },
+    {
+        "name": "Biscuit Joiner",
+        "price": 184.18,
+        "description": "Lightweight and flexible material."
+    },
+    {
+        "name": "Bathtub",
+        "price": 160.32,
+        "description": "Perfect for residential and commercial projects."
+    },
+    {
+        "name": "Concrete Block",
+        "price": 487.46,
+        "description": "Available in various sizes and colors."
+    },
+    {
+        "name": "Paintbrush",
+        "price": 325.74,
+        "description": "Cost-effective solution for builders."
+    },
+    {
+        "name": "Jigsaw",
+        "price": 477.91,
+        "description": "Ensures excellent thermal insulation."
+    },
+    {
+        "name": "Workbench",
+        "price": 264.24,
+        "description": "Perfect for residential and commercial projects."
+    },
+    {
+        "name": "Sledgehammer",
+        "price": 474.09,
+        "description": "Designed for easy application and maintenance."
+    },
+    {
+        "name": "Backsplash",
+        "price": 325.16,
+        "description": "Cost-effective solution for builders."
+    },
+    {
+        "name": "Caulk",
+        "price": 457.61,
+        "description": "Perfect for residential and commercial projects."
+    },
+    {
+        "name": "Tarp",
+        "price": 347.35,
+        "description": "Cost-effective solution for builders."
+    },
+    {
+        "name": "Insulation Foam",
+        "price": 243.93,
+        "description": "Offers superior strength and stability."
+    },
+    {
+        "name": "Welding Machine",
+        "price": 96.53,
+        "description": "High-performance product."
+    },
+    {
+        "name": "Pry Bar",
+        "price": 48.85,
+        "description": "Designed for easy application and maintenance."
+    },
+    {
+        "name": "Scaffold",
+        "price": 194.77,
+        "description": "Innovative design for enhanced efficiency."
+    },
+    {
+        "name": "Drill",
+        "price": 357.05,
+        "description": "Compact design for tight spaces."
+    }
+]
